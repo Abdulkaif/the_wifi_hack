@@ -1,4 +1,4 @@
-# the_wifi_hack
+# THE_WIFI_HACK
 
 **Note: If your system can not perform nmcli commands then it will throw error while execution of the crack_the_wifi.py script**
 
